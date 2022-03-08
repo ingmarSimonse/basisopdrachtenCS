@@ -1,0 +1,17 @@
+C:\Users\ingma_8dyy2c5\Projects\School\OneDrive - ROC Midden Nederland\lvl4\programming\basisopdracht7\basisopdracht7\bin\Debug\net6.0-windows\basisopdracht7.exe
+C:\Users\ingma_8dyy2c5\Projects\School\OneDrive - ROC Midden Nederland\lvl4\programming\basisopdracht7\basisopdracht7\bin\Debug\net6.0-windows\basisopdracht7.deps.json
+C:\Users\ingma_8dyy2c5\Projects\School\OneDrive - ROC Midden Nederland\lvl4\programming\basisopdracht7\basisopdracht7\bin\Debug\net6.0-windows\basisopdracht7.runtimeconfig.json
+C:\Users\ingma_8dyy2c5\Projects\School\OneDrive - ROC Midden Nederland\lvl4\programming\basisopdracht7\basisopdracht7\bin\Debug\net6.0-windows\basisopdracht7.dll
+C:\Users\ingma_8dyy2c5\Projects\School\OneDrive - ROC Midden Nederland\lvl4\programming\basisopdracht7\basisopdracht7\bin\Debug\net6.0-windows\basisopdracht7.pdb
+C:\Users\ingma_8dyy2c5\Projects\School\OneDrive - ROC Midden Nederland\lvl4\programming\basisopdracht7\basisopdracht7\obj\Debug\net6.0-windows\basisopdracht7.csproj.AssemblyReference.cache
+C:\Users\ingma_8dyy2c5\Projects\School\OneDrive - ROC Midden Nederland\lvl4\programming\basisopdracht7\basisopdracht7\obj\Debug\net6.0-windows\basisopdracht7.csproj.GenerateResource.cache
+C:\Users\ingma_8dyy2c5\Projects\School\OneDrive - ROC Midden Nederland\lvl4\programming\basisopdracht7\basisopdracht7\obj\Debug\net6.0-windows\basisopdracht7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ingma_8dyy2c5\Projects\School\OneDrive - ROC Midden Nederland\lvl4\programming\basisopdracht7\basisopdracht7\obj\Debug\net6.0-windows\basisopdracht7.AssemblyInfoInputs.cache
+C:\Users\ingma_8dyy2c5\Projects\School\OneDrive - ROC Midden Nederland\lvl4\programming\basisopdracht7\basisopdracht7\obj\Debug\net6.0-windows\basisopdracht7.AssemblyInfo.cs
+C:\Users\ingma_8dyy2c5\Projects\School\OneDrive - ROC Midden Nederland\lvl4\programming\basisopdracht7\basisopdracht7\obj\Debug\net6.0-windows\basisopdracht7.csproj.CoreCompileInputs.cache
+C:\Users\ingma_8dyy2c5\Projects\School\OneDrive - ROC Midden Nederland\lvl4\programming\basisopdracht7\basisopdracht7\obj\Debug\net6.0-windows\basisopdracht7.dll
+C:\Users\ingma_8dyy2c5\Projects\School\OneDrive - ROC Midden Nederland\lvl4\programming\basisopdracht7\basisopdracht7\obj\Debug\net6.0-windows\refint\basisopdracht7.dll
+C:\Users\ingma_8dyy2c5\Projects\School\OneDrive - ROC Midden Nederland\lvl4\programming\basisopdracht7\basisopdracht7\obj\Debug\net6.0-windows\basisopdracht7.pdb
+C:\Users\ingma_8dyy2c5\Projects\School\OneDrive - ROC Midden Nederland\lvl4\programming\basisopdracht7\basisopdracht7\obj\Debug\net6.0-windows\basisopdracht7.genruntimeconfig.cache
+C:\Users\ingma_8dyy2c5\Projects\School\OneDrive - ROC Midden Nederland\lvl4\programming\basisopdracht7\basisopdracht7\obj\Debug\net6.0-windows\ref\basisopdracht7.dll
+C:\Users\ingma_8dyy2c5\Projects\School\OneDrive - ROC Midden Nederland\lvl4\programming\basisopdracht7\basisopdracht7\obj\Debug\net6.0-windows\basisopdracht7.main.resources

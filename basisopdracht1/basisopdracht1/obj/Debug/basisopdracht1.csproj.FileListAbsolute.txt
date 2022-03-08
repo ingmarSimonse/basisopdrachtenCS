@@ -1,0 +1,8 @@
+C:\Users\ingma_8dyy2c5\Projects\School\OneDrive - ROC Midden Nederland\lvl4\programming\basisopdracht1\basisopdracht1\bin\Debug\basisopdracht1.exe.config
+C:\Users\ingma_8dyy2c5\Projects\School\OneDrive - ROC Midden Nederland\lvl4\programming\basisopdracht1\basisopdracht1\bin\Debug\basisopdracht1.exe
+C:\Users\ingma_8dyy2c5\Projects\School\OneDrive - ROC Midden Nederland\lvl4\programming\basisopdracht1\basisopdracht1\bin\Debug\basisopdracht1.pdb
+C:\Users\ingma_8dyy2c5\Projects\School\OneDrive - ROC Midden Nederland\lvl4\programming\basisopdracht1\basisopdracht1\obj\Debug\basisopdracht1.csproj.AssemblyReference.cache
+C:\Users\ingma_8dyy2c5\Projects\School\OneDrive - ROC Midden Nederland\lvl4\programming\basisopdracht1\basisopdracht1\obj\Debug\basisopdracht1.csproj.SuggestedBindingRedirects.cache
+C:\Users\ingma_8dyy2c5\Projects\School\OneDrive - ROC Midden Nederland\lvl4\programming\basisopdracht1\basisopdracht1\obj\Debug\basisopdracht1.csproj.CoreCompileInputs.cache
+C:\Users\ingma_8dyy2c5\Projects\School\OneDrive - ROC Midden Nederland\lvl4\programming\basisopdracht1\basisopdracht1\obj\Debug\basisopdracht1.exe
+C:\Users\ingma_8dyy2c5\Projects\School\OneDrive - ROC Midden Nederland\lvl4\programming\basisopdracht1\basisopdracht1\obj\Debug\basisopdracht1.pdb
